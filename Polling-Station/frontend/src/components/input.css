@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    margin: auto;
+    border: 2px solid black;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: aquamarine;
+    padding-bottom: 5vh;
+
+}
+.inputcard{
+    margin: 5px 1px;
+}
+.inputcard label{
+    font-size: 22px;
+}
+
+.inputcard input{
+    font-size: 22px;
+    background-color: #CFD8DC;
+}

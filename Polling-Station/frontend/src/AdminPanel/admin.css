@@ -1,0 +1,9 @@
+.station{
+    display: grid;
+    grid-template-columns: repeat(4,22%);
+    gap: 2%;
+    grid-auto-rows: auto;
+}
+.stcard{
+    border-bottom: 1px solid black;
+}
